@@ -304,7 +304,7 @@ local function CMIAOA_fake_script() -- fghj.Script
 	local script = Instance.new('Script', fghj)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/LuckyEduard/wallhackuni/main/wallhace'),true))()
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/pateu198/wallhucuri/main/.gitignore'),true))()
 	end)
 	
 end
@@ -313,7 +313,7 @@ local function RSODECG_fake_script() -- fghj_2.Script
 	local script = Instance.new('Script', fghj_2)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/LuckyEduard/invis/main/invisn%20i'),true))()
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/pateu198/invisf/main/invisn%20i'),true))()
 	end)
 	
 end
@@ -322,7 +322,7 @@ local function FKUOL_fake_script() -- TextButton.Script
 	local script = Instance.new('Script', TextButton)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/LuckyEduard/ACSKILLALLLOLOL/main/acskill'),true))()
+		loadstring(game:HttpGet(('hhttps://raw.githubusercontent.com/pateu198/ACSKILLALLLOLOL/main/acskill'),true))()
 	end)
 	
 end
@@ -331,7 +331,7 @@ local function GNGP_fake_script() -- fghj_3.1
 	local script = Instance.new('Script', fghj_3)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/LuckyEduard/swear1/main/gfg'),true))()
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/pateu198/swearee/main/gfg'),true))()
 	end)
 	
 end
@@ -340,7 +340,7 @@ local function GDJMBDM_fake_script() -- fghj_3.2
 	local script = Instance.new('Script', fghj_3)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/LuckyEduard/swear1/main/222'),true))()
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/pateu198/swearee/main/222'),true))()
 	end)
 	
 end
@@ -349,7 +349,7 @@ local function ZXQUN_fake_script() -- fghj_3.3
 	local script = Instance.new('Script', fghj_3)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/LuckyEduard/swear1/main/333333'),true))()
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/pateu198/swearee/main/333333'),true))()
 	end)
 	
 end
@@ -358,7 +358,7 @@ local function HZKDI_fake_script() -- fghj_3.4
 	local script = Instance.new('Script', fghj_3)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/LuckyEduard/swear1/main/444444'),true))()
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/pateu198/swearee/main/444444'),true))()
 	end)
 	
 end
@@ -367,7 +367,7 @@ local function LRAS_fake_script() -- fghj_3.Script
 	local script = Instance.new('Script', fghj_3)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/LuckyEduard/swear1/main/555555'),true))()
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/pateu198/swearee/main/.555555'),true))()
 	end)
 	
 end
@@ -376,7 +376,7 @@ local function VUHF_fake_script() -- fghj_4.Script
 	local script = Instance.new('Script', fghj_4)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/LuckyEduard/lagswitch/main/fgh'),true))()
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/pateu198/lagswitch/main/fhg'),true))()
 	end)
 	
 end
@@ -385,7 +385,7 @@ local function TPFJ_fake_script() -- fghj_5.Script
 	local script = Instance.new('Script', fghj_5)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/LuckyEduard/laggeracs/main/dfg'),true))()
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/pateu198/laggeracs/main/dfg'),true))()
 	end)
 	
 end
@@ -403,7 +403,7 @@ local function RLGD_fake_script() -- TextButton_3.Script
 	local script = Instance.new('Script', TextButton_3)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/LuckyEduard/qtotp/main/qtotp'),true))()
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/pateu198/qtotp/main/qtotp'),true))()
 	end)
 	
 end
